@@ -1,0 +1,17 @@
+{
+  "aiken-developer": "Aiken Developer",
+  "cross-chain-developer": "Cross-Chain Developer",
+  "defi-developer": "DeFi Developer",
+  "education-community-developer": "Education/Community Developer",
+  "governance-dao-developer": "Governance/DAO Developer",
+  "hydra-developer": "Hydra Developer",
+  "infrastructure-developer": "Infrastructure Developer",
+  "marlowe-developer": "Marlowe Developer",
+  "nft-developer": "NFT Developer",
+  "oracle-developer": "Oracle Developer",
+  "plutus-smart-contract-developer": "Plutus Smart Contract Developer",
+  "security-auditor": "Security Auditor",
+  "sidechain-developer": "Sidechain Developer",
+  "stablecoin-developer": "Stablecoin Developer",
+  "web3-developer": "Web3 Developer"
+}
